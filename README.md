@@ -1,6 +1,7 @@
 # Clients
 
 - Axios
+- .gitignore
 - Promises
 - async / await
 - try / catch
